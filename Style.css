@@ -1,0 +1,21 @@
+#Games {
+    height: 100%;
+    width: 95%;
+    margin: 30px;
+}
+
+.PROJECT_GAMING {
+    list-style: none;
+    font-family: inherit;
+    position: absolute;
+    z-index: 100;
+}
+
+.Games {
+    float: left;
+    margin: 20px;
+}
+
+body {position: relative;
+    background: rgb(131, 58, 180);
+    background: linear-gradient(0deg, rgba(131, 58, 180, 1) 0%, rgba(253, 29, 29, 1) 50%, rgba(252, 176, 69, 1) 100%);}
